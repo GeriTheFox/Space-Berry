@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NAE12S20-C")(type "KiCad")(uri "${KIPRJMOD}/lib/NAE12S20-C.kicad_sym")(options "")(descr ""))
+  (lib (name "XCZU15EG")(type "KiCad")(uri "${KIPRJMOD}/lib/XCZU15EG.kicad_sym")(options "")(descr ""))
+)
