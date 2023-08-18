@@ -1,4 +1,4 @@
-21673908344942832
+21680677514380592
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90195,6 +90195,27 @@ varistor
 2
 2
 lib
+FBGA96X16_7P5X13P3_SAM
+
+K4A8G165WC-BCTD 
+0
+96
+96
+lib
+FBGA96X16_7P5X13P3_SAM-L
+
+K4A8G165WC-BCTD 
+0
+96
+96
+lib
+FBGA96X16_7P5X13P3_SAM-M
+
+K4A8G165WC-BCTD 
+0
+96
+96
+lib
 FFVB1156_XIL
 
 XCZU15EG-2FFVB1156E 
@@ -90222,3 +90243,10 @@ NAE12S20-C
 0
 20
 20
+lib
+NAM12S06-D
+
+
+0
+36
+36

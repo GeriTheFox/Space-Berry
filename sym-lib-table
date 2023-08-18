@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "NAE12S20-C")(type "KiCad")(uri "${KIPRJMOD}/lib/NAE12S20-C.kicad_sym")(options "")(descr ""))
   (lib (name "XCZU15EG")(type "KiCad")(uri "${KIPRJMOD}/lib/XCZU15EG.kicad_sym")(options "")(descr ""))
+  (lib (name "NAM12S06-D")(type "KiCad")(uri "${KIPRJMOD}/lib/NAM12S06-D.kicad_sym")(options "")(descr ""))
+  (lib (name "K4A8G165W")(type "KiCad")(uri "${KIPRJMOD}/lib/K4A8G165W.kicad_sym")(options "")(descr ""))
 )
