@@ -8,40 +8,6 @@
   )
 
 
-  (sheet (at 76.2 88.9) (size 25.4 12.7) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 05a37eff-a8b9-4823-91ad-1b544c9565d2)
-    (property "Sheetname" "PS_PWR" (at 76.2 88.1884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "PS_PWR.kicad_sch" (at 76.2 102.1846 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "space-berry"
-        (path "/93269f17-932e-47e4-8e03-ce157f57b85f" (page "14"))
-      )
-    )
-  )
-
-  (sheet (at 152.4 38.1) (size 25.4 12.7) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 11a0c28c-a3ef-4f09-afdf-9b60abaa441a)
-    (property "Sheetname" "GIG_ETH" (at 152.4 37.3884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "GIG_ETH.kicad_sch" (at 152.4 51.3846 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "space-berry"
-        (path "/93269f17-932e-47e4-8e03-ce157f57b85f" (page "13"))
-      )
-    )
-  )
-
   (sheet (at 38.1 38.1) (size 25.4 12.7) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -228,23 +194,6 @@
     (instances
       (project "space-berry"
         (path "/93269f17-932e-47e4-8e03-ce157f57b85f" (page "11"))
-      )
-    )
-  )
-
-  (sheet (at 76.2 114.3) (size 25.4 12.7) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid fadb5543-fee9-4653-9485-d3371e8e0668)
-    (property "Sheetname" "Zynq_GND" (at 76.2 113.5884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "Zynq_GND.kicad_sch" (at 76.2 127.5846 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "space-berry"
-        (path "/93269f17-932e-47e4-8e03-ce157f57b85f" (page "15"))
       )
     )
   )
