@@ -1,26 +1,10 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": true,
-    "hidden_netclasses": [
-      "DDR4_Byte_low",
-      "DDR_byte_high"
-    ],
-    "hidden_nets": [
-      "DDR_ODT",
-      "DDR_ACT",
-      "DDR_CS",
-      "DDR_BA0",
-      "DDR_BA1",
-      "DDR_RES",
-      "DDR_PAR",
-      "DDR_ALTER",
-      "DDR_BG0",
-      "DDR_CK-",
-      "DDR_CK+",
-      "DDR_DQS0+"
-    ],
+    "hidden_netclasses": [],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 2,
     "opacity": {
@@ -80,7 +64,7 @@
       39,
       40
     ],
-    "visible_layers": "ffdf7fd_ffffffff",
+    "visible_layers": "ffdf7ff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {

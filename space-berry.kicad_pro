@@ -511,6 +511,23 @@
         "via_diameter": 0.45,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.15,
+        "diff_pair_gap": 0.2,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.09,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "ETH",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.15,
+        "via_diameter": 0.45,
+        "via_drill": 0.3,
+        "wire_width": 6
       }
     ],
     "meta": {
@@ -542,6 +559,10 @@
       {
         "netclass": "DDR",
         "pattern": "DDR*"
+      },
+      {
+        "netclass": "ETH",
+        "pattern": "ETH*"
       }
     ]
   },
@@ -601,23 +622,23 @@
     ],
     [
       "4128109f-3385-424f-8715-9928bbdfec31",
-      "PWR_template"
+      "PWR_3V3"
     ],
     [
       "a1e9fc17-d701-45af-8b94-017ba4f1b78d",
-      "PWR_template1"
+      "PWR_3V3_AUX"
     ],
     [
       "e56a446a-cd78-4dc8-909e-86d0345f4f9b",
-      "PWR_template2"
+      "PWR_1V8"
     ],
     [
       "541a9208-53db-43e2-b18b-502e5bce502a",
-      "PWR_template3"
+      "PWR_1V2"
     ],
     [
       "d0887aed-aeae-4004-9c98-5324ec4a0b9b",
-      "PWR_template4"
+      "PWR_0V85"
     ],
     [
       "90015059-f333-44cc-8920-f88d6449813f",
@@ -625,7 +646,7 @@
     ],
     [
       "71024785-171a-4e1d-b975-6e625fffaf30",
-      "PWR_template5"
+      "PWR_5V0"
     ],
     [
       "94eb1599-a3cd-437e-8a35-c6b7b3c10fa2",
@@ -645,11 +666,15 @@
     ],
     [
       "05a37eff-a8b9-4823-91ad-1b544c9565d2",
-      "PS_PWR"
+      "ZYNQ_PWR"
     ],
     [
       "fadb5543-fee9-4653-9485-d3371e8e0668",
       "Zynq_GND"
+    ],
+    [
+      "5a830658-cbc2-445b-8367-89df7437279e",
+      "PS_DDR_MIO0-53"
     ]
   ],
   "text_variables": {}
