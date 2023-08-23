@@ -3209,6 +3209,14 @@
     )
   )
 
+  (global_label "2V5_LDO" (shape input) (at 179.07 76.2 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 840920b0-18ed-49c5-8371-8b6b6ad4a8ea)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 190.0796 76.2 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
+
   (symbol (lib_id "power:VCC") (at 85.09 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0ccbe081-26db-4c60-ad78-2783679d1b22)

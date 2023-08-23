@@ -411,6 +411,9 @@
   (junction (at 116.84 76.2) (diameter 0) (color 0 0 0 0)
     (uuid 3559a92b-87c9-482d-ad88-4bf875450ec6)
   )
+  (junction (at 173.99 76.2) (diameter 0) (color 0 0 0 0)
+    (uuid 38bcfaa4-9530-42e7-aafa-b25cb895ff57)
+  )
   (junction (at 134.62 134.62) (diameter 0) (color 0 0 0 0)
     (uuid 3e854176-8a51-4d4a-84f9-a5f65d6ed6b8)
   )
@@ -516,6 +519,10 @@
   (wire (pts (xy 152.4 134.62) (xy 152.4 121.92))
     (stroke (width 0) (type default))
     (uuid 229b65f7-1656-4ced-b431-1b60fe75f659)
+  )
+  (wire (pts (xy 173.99 76.2) (xy 175.26 76.2))
+    (stroke (width 0) (type default))
+    (uuid 24cea3b2-45ea-446e-a820-681b9f238fab)
   )
   (wire (pts (xy 148.59 81.28) (xy 152.4 81.28))
     (stroke (width 0) (type default))
@@ -3206,6 +3213,14 @@
       28PJiLENAAAAAAAmE2y/bX1pq2/YVqQgxjYAAAAAAJikWNzdBjG2AQAAAAAAMIRLbWs9tjmKmEc/
       FAkAAAAAAADjDYba1lG5kYuxbQSkNwAAAAAAGF8Y27ZHyMCMGNsAAAAAAGDCQVPbxu7TjBTE2AYA
       AAAAAEDG/wf3OkFKwfmLlwAAAABJRU5ErkJggg==
+    )
+  )
+
+  (global_label "1V2" (shape input) (at 175.26 76.2 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 2ffb279b-3249-4b10-a6ba-c676c0b7a273)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 181.6734 76.2 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
 
