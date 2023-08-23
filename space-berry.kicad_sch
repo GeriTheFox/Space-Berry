@@ -49,7 +49,7 @@
     (property "Sheetname" "PWR_3V3" (at 38.1 37.3884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "PWR_3V3.kicad_sch" (at 38.1 51.3846 0)
+    (property "Sheetfile" "PWR_1.kicad_sch" (at 38.1 51.3846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -66,7 +66,7 @@
     (property "Sheetname" "PWR_1V2" (at 38.1 113.5884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "PWR_1V2.kicad_sch" (at 38.1 127.5846 0)
+    (property "Sheetfile" "PWR_4.kicad_sch" (at 38.1 127.5846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -100,7 +100,7 @@
     (property "Sheetname" "PWR_5V0" (at 38.1 164.3884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "PWR_5V0.kicad_sch" (at 38.1 178.3846 0)
+    (property "Sheetfile" "PWR_6.kicad_sch" (at 38.1 178.3846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -151,8 +151,11 @@
     (property "Sheetname" "PWR_3V3_AUX" (at 38.1 62.7884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "PWR_3V3_AUX.kicad_sch" (at 38.1 76.7846 0)
+    (property "Sheetfile" "PWR_2.kicad_sch" (at 38.1 76.7846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (property "Field2" "" (at 38.1 63.5 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (instances
       (project "space-berry"
@@ -168,7 +171,7 @@
     (property "Sheetname" "PWR_0V85" (at 38.1 138.9884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "PWR_0V85.kicad_sch" (at 38.1 152.9846 0)
+    (property "Sheetfile" "PWR_5.kicad_sch" (at 38.1 152.9846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -219,8 +222,11 @@
     (property "Sheetname" "PWR_1V8" (at 38.1 88.1884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "PWR_1V8.kicad_sch" (at 38.1 102.1846 0)
+    (property "Sheetfile" "PWR_3.kicad_sch" (at 38.1 102.1846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (property "Field2" "" (at 38.1 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (instances
       (project "space-berry"
