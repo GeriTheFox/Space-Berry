@@ -42,6 +42,43 @@
     )
   )
 
+  (sheet (at 190.5 63.5) (size 25.4 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 1e39a03a-1a0f-461d-8eae-706bef06b5a3)
+    (property "Sheetname" "USB_3.0" (at 190.5 62.7884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "USB_3.kicad_sch" (at 190.5 76.7846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "space-berry"
+        (path "/93269f17-932e-47e4-8e03-ce157f57b85f" (page "18"))
+      )
+    )
+  )
+
+  (sheet (at 190.5 38.1) (size 25.4 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 2166ed60-c589-413b-a298-140af16eae77)
+    (property "Sheetname" "USB_2.0" (at 190.5 37.3884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "USB_2.kicad_sch" (at 190.5 51.3846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (property "Field2" "" (at 190.5 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "space-berry"
+        (path "/93269f17-932e-47e4-8e03-ce157f57b85f" (page "17"))
+      )
+    )
+  )
+
   (sheet (at 38.1 38.1) (size 25.4 12.7) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
