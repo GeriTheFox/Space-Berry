@@ -1,4 +1,4 @@
-21687447244022859
+21690833388484841
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90201,6 +90201,20 @@ ARJM11C7-502-AB-ER2-T
 0
 12
 12
+lib
+CDCI6214RGET
+
+CDCI6214RGET 
+0
+30
+26
+lib
+CDCI6214RGET_NV
+
+CDCI6214RGET 
+0
+25
+25
 lib
 FBGA96X16_7P5X13P3_SAM
 

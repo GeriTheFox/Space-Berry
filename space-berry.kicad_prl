@@ -1,23 +1,10 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
-    "hidden_netclasses": [
-      "SD"
-    ],
-    "hidden_nets": [
-      "SD_DATA7",
-      "SD_CLK",
-      "SD_DATA5",
-      "SD_CMD",
-      "SD_DATA0",
-      "SD_DATA1",
-      "SD_DATA6",
-      "SD_DATA3",
-      "SD_DATA2",
-      "SD_DATA4"
-    ],
+    "hidden_netclasses": [],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 2,
     "opacity": {
@@ -77,7 +64,7 @@
       39,
       40
     ],
-    "visible_layers": "ffdf7ff_ffffff81",
+    "visible_layers": "ffd77ff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {

@@ -6,4 +6,5 @@
   (lib (name "K4A8G165W")(type "KiCad")(uri "${KIPRJMOD}/lib/K4A8G165W.kicad_sym")(options "")(descr ""))
   (lib (name "ARJM11C7-502-AB-ER2-T")(type "KiCad")(uri "${KIPRJMOD}/lib/ARJM11C7-502-AB-ER2-T.kicad_sym")(options "")(descr ""))
   (lib (name "RTL8211F-CG")(type "KiCad")(uri "${KIPRJMOD}/lib/RTL8211F-CG.kicad_sym")(options "")(descr ""))
+  (lib (name "CDCI6214RGET")(type "KiCad")(uri "${KIPRJMOD}/lib/CDCI6214RGET.kicad_sym")(options "")(descr ""))
 )

@@ -42,23 +42,6 @@
     )
   )
 
-  (sheet (at 190.5 63.5) (size 25.4 12.7) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 1e39a03a-1a0f-461d-8eae-706bef06b5a3)
-    (property "Sheetname" "USB_3.0" (at 190.5 62.7884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "USB_3.kicad_sch" (at 190.5 76.7846 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "space-berry"
-        (path "/93269f17-932e-47e4-8e03-ce157f57b85f" (page "18"))
-      )
-    )
-  )
-
   (sheet (at 190.5 38.1) (size 25.4 12.7) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -181,6 +164,26 @@
     )
   )
 
+  (sheet (at 228.6 38.1) (size 25.4 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 97e0ab6c-7fd1-4ab2-b202-31d5e5b6a0c6)
+    (property "Sheetname" "PLL" (at 228.6 37.3884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PLL.kicad_sch" (at 228.6 51.3846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (property "Field2" "" (at 228.6 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "space-berry"
+        (path "/93269f17-932e-47e4-8e03-ce157f57b85f" (page "19"))
+      )
+    )
+  )
+
   (sheet (at 38.1 63.5) (size 25.4 12.7) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -197,6 +200,26 @@
     (instances
       (project "space-berry"
         (path "/93269f17-932e-47e4-8e03-ce157f57b85f" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 190.5 63.5) (size 25.4 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid b09b43d6-0155-4d95-82ac-b05a455defee)
+    (property "Sheetname" "USB_2_2" (at 190.5 62.7884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "USB_2_2.kicad_sch" (at 190.5 76.7846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (property "Field2" "" (at 190.5 63.5 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "space-berry"
+        (path "/93269f17-932e-47e4-8e03-ce157f57b85f" (page "18"))
       )
     )
   )
@@ -268,6 +291,23 @@
     (instances
       (project "space-berry"
         (path "/93269f17-932e-47e4-8e03-ce157f57b85f" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 152.4 88.9) (size 25.4 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid e7c52280-cb13-4025-a01b-1e286554fa7b)
+    (property "Sheetname" "GiTx" (at 152.4 88.1884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "GiTx.kicad_sch" (at 152.4 102.1846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "space-berry"
+        (path "/93269f17-932e-47e4-8e03-ce157f57b85f" (page "20"))
       )
     )
   )
