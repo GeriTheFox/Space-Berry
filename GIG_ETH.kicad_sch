@@ -2734,7 +2734,7 @@
     (property "Value" "LED" (at 202.2475 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 200.66 78.74 0)
+    (property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 200.66 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 200.66 78.74 0)

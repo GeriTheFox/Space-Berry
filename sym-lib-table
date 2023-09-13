@@ -7,4 +7,5 @@
   (lib (name "ARJM11C7-502-AB-ER2-T")(type "KiCad")(uri "${KIPRJMOD}/lib/ARJM11C7-502-AB-ER2-T.kicad_sym")(options "")(descr ""))
   (lib (name "RTL8211F-CG")(type "KiCad")(uri "${KIPRJMOD}/lib/RTL8211F-CG.kicad_sym")(options "")(descr ""))
   (lib (name "CDCI6214RGET")(type "KiCad")(uri "${KIPRJMOD}/lib/CDCI6214RGET.kicad_sym")(options "")(descr ""))
+  (lib (name "CONN9_08-0003_MOL")(type "KiCad")(uri "${KIPRJMOD}/lib/CONN9_08-0003_MOL.kicad_sym")(options "")(descr ""))
 )
