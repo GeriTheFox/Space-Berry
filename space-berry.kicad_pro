@@ -524,7 +524,7 @@
         "name": "ETH",
         "pcb_color": "rgb(0, 170, 255)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.15,
+        "track_width": 0.1,
         "via_diameter": 0.45,
         "via_drill": 0.3,
         "wire_width": 6
@@ -565,7 +565,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.1,
+        "clearance": 0.15,
         "diff_pair_gap": 0.2,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.09,
@@ -575,7 +575,24 @@
         "name": "USB",
         "pcb_color": "rgb(221, 63, 255)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.15,
+        "track_width": 0.1,
+        "via_diameter": 0.45,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.15,
+        "diff_pair_gap": 0.2,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.09,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "USB1",
+        "pcb_color": "rgb(20, 255, 183)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.1,
         "via_diameter": 0.45,
         "via_drill": 0.3,
         "wire_width": 6
@@ -589,10 +606,10 @@
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
-        "name": "USB1",
-        "pcb_color": "rgb(20, 255, 183)",
+        "name": "VCC",
+        "pcb_color": "rgb(163, 1, 255)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.15,
+        "track_width": 0.3,
         "via_diameter": 0.45,
         "via_drill": 0.3,
         "wire_width": 6
@@ -647,6 +664,10 @@
       {
         "netclass": "USB1",
         "pattern": "USB1_DATA*"
+      },
+      {
+        "netclass": "VCC",
+        "pattern": "VCC*"
       }
     ]
   },
@@ -762,11 +783,11 @@
     ],
     [
       "2166ed60-c589-413b-a298-140af16eae77",
-      "USB_2.0"
+      "USB_0"
     ],
     [
       "b09b43d6-0155-4d95-82ac-b05a455defee",
-      "USB_2_2"
+      "USB_1"
     ],
     [
       "97e0ab6c-7fd1-4ab2-b202-31d5e5b6a0c6",
@@ -775,6 +796,14 @@
     [
       "e7c52280-cb13-4025-a01b-1e286554fa7b",
       "GiTx"
+    ],
+    [
+      "20cc0687-61c4-4787-aef0-012c78afbfd8",
+      "pcie"
+    ],
+    [
+      "3cacd605-b1d9-4c6b-8f59-d1d58be00d30",
+      "sata"
     ]
   ],
   "text_variables": {}
